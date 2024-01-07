@@ -13152,3 +13152,15 @@ body {
 .scrollButtonWidget {
   display: none !important;
 }
+.linksWidget {
+  display: none !important;
+}
+.authorWidget {
+  display: none !important;
+}
+.slotPlayDetails {
+  display: none !important;
+}
+.bonusCalculator {
+  display: none !important;
+}
